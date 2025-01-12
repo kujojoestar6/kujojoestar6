@@ -10,9 +10,6 @@
 
 - ⚡ Fun fact **I m passionate on project i am working**
   
-- 💞 I love my pregnant Mama
-  
-
 <p align="left">
 </p>
 
