@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kujo Joestar</h1>
 <h3 align="center">A passionate data engineer and math enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1So2jcFXIRWUr0JdCDBjRBVOk-Rv_8jhD">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1Tq_hbUw_Amy6th0ot6QBlvBMuY78G7ux">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kujojoestar6&label=Profile%20views&color=0e75b6&style=flat" alt="kujojoestar6" /> </p>
 
